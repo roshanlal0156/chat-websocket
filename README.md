@@ -1,0 +1,1 @@
+The Real-Time Web Chat Application is a modern, interactive platform designed to facilitate communication between users in real-time. Built using Node.js, Express.js, and Socket.IO, this chat application allows users to connect instantly and exchange messages seamlessly. 
